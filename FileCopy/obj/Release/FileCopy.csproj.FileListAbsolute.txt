@@ -1,0 +1,10 @@
+C:\Users\ando2\source\repos\FileCopy\FileCopy\bin\Release\FileCopy.exe.config
+C:\Users\ando2\source\repos\FileCopy\FileCopy\bin\Release\FileCopy.exe
+C:\Users\ando2\source\repos\FileCopy\FileCopy\bin\Release\FileCopy.pdb
+C:\Users\ando2\source\repos\FileCopy\FileCopy\obj\Release\FileCopy.csprojAssemblyReference.cache
+C:\Users\ando2\source\repos\FileCopy\FileCopy\obj\Release\FileCopy.Form1.resources
+C:\Users\ando2\source\repos\FileCopy\FileCopy\obj\Release\FileCopy.Properties.Resources.resources
+C:\Users\ando2\source\repos\FileCopy\FileCopy\obj\Release\FileCopy.csproj.GenerateResource.cache
+C:\Users\ando2\source\repos\FileCopy\FileCopy\obj\Release\FileCopy.csproj.CoreCompileInputs.cache
+C:\Users\ando2\source\repos\FileCopy\FileCopy\obj\Release\FileCopy.exe
+C:\Users\ando2\source\repos\FileCopy\FileCopy\obj\Release\FileCopy.pdb
